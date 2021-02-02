@@ -1,2 +1,3 @@
 # Dyma---Projet-4---CV
-Projet 4 de la formation html et css
+
+#### Ce projet est soumis au Creative Common - toute reproduction sans citer l'auteur DYMA.FR est strictement interdite.
